@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: beige;
+}
+
+h1 {
+    color: royalblue;
+    letter-spacing: 1.5px;
+}
+
+h2 {
+    color: royalblue;
+    letter-spacing: 1.5px;
+}
+
+h3 {
+    color: royalblue;
+    letter-spacing: 1.5px;
+}
+p {
+    font-size: 20px;
+}
+
+.aside-p {
+    font-size: 15px;
+}
+
+.footer-p {
+    font-size: 12px;
+}
